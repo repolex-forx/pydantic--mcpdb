@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "mcpdb",
+  "versions": [
+    {
+      "commit": "6c9f90937217be9a5a0cc246c920c7ce01a220db",
+      "parsed_at": "2026-10-11T20:41:26.407451+00:00",
+      "tag": "v0.1.0",
+      "filetree": "filetree/6c9f90937217be9a5a0cc246c920c7ce01a220db.nq.gz",
+      "blobs": [
+        "blob/f65150ee83cc1b3e5368b21bfe6ccfd998c6d8c7.nq.gz",
+        "blob/47e420281fdd545d63da2dad20a6ec94e83b5844.nq.gz",
+        "blob/0140d3378c555550251ef588a8b8f1d633b43b19.nq.gz",
+        "blob/f01884a7d2cac1fbeeaba50889384fff2c17e66e.nq.gz",
+        "blob/488c6260c10f2e88fa1fae58a63fccec8d600cd1.nq.gz",
+        "blob/8bc483289061d79a1011110223f99f03b3aee684.nq.gz",
+        "blob/72126650a4d6d711ee35a14ffa6451579641b740.nq.gz",
+        "blob/f8f3e0fd8c031219f968a6cc736f86aadbfd161f.nq.gz",
+        "blob/17ef01415192d0bb8653548e759f4d16892cdf9f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

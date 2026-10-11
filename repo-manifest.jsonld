@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/pydantic/mcpdb",
+  "@type": "gh:Repository",
+  "gh:name": "mcpdb",
+  "gh:owner": "pydantic",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/pydantic/mcpdb/commit/6c9f90937217be9a5a0cc246c920c7ce01a220db",
+      "git:hexsha": "6c9f90937217be9a5a0cc246c920c7ce01a220db",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "v0.1.0"
+    }
+  ]
+}
