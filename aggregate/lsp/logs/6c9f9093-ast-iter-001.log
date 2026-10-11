@@ -1,0 +1,7 @@
+[2026-10-11T20:42:15Z] === AST ITERATION 1 START | repo=pydantic/mcpdb sha=6c9f9093 ===
+[2026-10-11T20:42:15Z] [iter=1] PHASE START: ast repo=pydantic/mcpdb sha=6c9f9093
+[2026-10-11T20:42:15Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T20:42:16Z] [iter=1] AST chunks built count=1 triples=7919
+[2026-10-11T20:42:16Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/6c9f90937217be9a5a0cc246c920c7ce01a220db/.complete
+[2026-10-11T20:42:16Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-11T20:42:16Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
