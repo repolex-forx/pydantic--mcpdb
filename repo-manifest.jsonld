@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pydantic/mcpdb/commit/6c9f90937217be9a5a0cc246c920c7ce01a220db",
       "git:hexsha": "6c9f90937217be9a5a0cc246c920c7ce01a220db",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.0",
+      "repolex:parsedAt": "2026-10-11T20:44:34.050822+00:00"
     }
   ]
 }
